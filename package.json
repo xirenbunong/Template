@@ -1,0 +1,22 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "适合前端大型项目的模板代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xirenbunong/Template.git"
+  },
+  "author": "Xiren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xirenbunong/Template/issues"
+  },
+  "homepage": "https://github.com/xirenbunong/Template#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
+}
